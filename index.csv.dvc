@@ -1,0 +1,8 @@
+wdir: .
+outs:
+- path: index.csv
+  metric: false
+  cache: true
+  persist: false
+  md5: 403e66d8a7913693d50c37befaad12a0
+md5: 00f4f600004710967129ca83a5536507

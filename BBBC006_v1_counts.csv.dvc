@@ -1,0 +1,8 @@
+wdir: .
+outs:
+- path: BBBC006_v1_counts.csv
+  metric: false
+  cache: true
+  persist: false
+  md5: bbfb15170f4a6e7258d1991eca890a22
+md5: ed50210e0342afa0393770d731866511
