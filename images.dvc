@@ -1,8 +1,8 @@
+md5: 78671aff8ad0c8b8a385b98f5739e4c9
 wdir: .
 outs:
-- path: images
-  metric: false
+- md5: d1c586e50605072ff2a2622efd97c7d9.dir
+  path: images
   cache: true
+  metric: false
   persist: false
-  md5: 6a0f300198cf75269c8eded353dcbdcd.dir
-md5: 7716bb7f3cd0f99cbc2d4713a91a65b0
